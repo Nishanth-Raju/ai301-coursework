@@ -1,0 +1,147 @@
+{
+  "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/issues/36",
+  "repository_url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3",
+  "labels_url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/issues/36/labels{/name}",
+  "comments_url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/issues/36/comments",
+  "events_url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/issues/36/events",
+  "html_url": "https://github.com/codepath/pathreview-ai301-fa26-s3/issues/36",
+  "id": 5417597219,
+  "node_id": "I_kwDOUVuBiM8AAAABQun5Iw",
+  "number": 36,
+  "title": "`POST /reviews` endpoint has no test for when the profile has no ingested documents",
+  "user": {
+    "login": "Aburke225",
+    "id": 39445646,
+    "node_id": "MDQ6VXNlcjM5NDQ1NjQ2",
+    "avatar_url": "https://avatars.githubusercontent.com/u/39445646?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Aburke225",
+    "html_url": "https://github.com/Aburke225",
+    "followers_url": "https://api.github.com/users/Aburke225/followers",
+    "following_url": "https://api.github.com/users/Aburke225/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Aburke225/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Aburke225/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Aburke225/subscriptions",
+    "organizations_url": "https://api.github.com/users/Aburke225/orgs",
+    "repos_url": "https://api.github.com/users/Aburke225/repos",
+    "events_url": "https://api.github.com/users/Aburke225/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Aburke225/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "labels": [
+    {
+      "id": 12141858253,
+      "node_id": "LA_kwDOUVuBiM8AAAAC07YNzQ",
+      "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/labels/good%20first%20issue",
+      "name": "good first issue",
+      "color": "7057ff",
+      "default": true,
+      "description": "Good for newcomers",
+      "archived_at": null,
+      "archived_by": null
+    },
+    {
+      "id": 12141932455,
+      "node_id": "LA_kwDOUVuBiM8AAAAC07cvpw",
+      "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/labels/api",
+      "name": "api",
+      "color": "0052cc",
+      "default": false,
+      "description": "FastAPI backend",
+      "archived_at": null,
+      "archived_by": null
+    },
+    {
+      "id": 12141932825,
+      "node_id": "LA_kwDOUVuBiM8AAAAC07cxGQ",
+      "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/labels/devops",
+      "name": "devops",
+      "color": "c2e0c6",
+      "default": false,
+      "description": "CI & tooling",
+      "archived_at": null,
+      "archived_by": null
+    },
+    {
+      "id": 12141932937,
+      "node_id": "LA_kwDOUVuBiM8AAAAC07cxiQ",
+      "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/labels/docs",
+      "name": "docs",
+      "color": "0075ca",
+      "default": false,
+      "description": "Documentation",
+      "archived_at": null,
+      "archived_by": null
+    },
+    {
+      "id": 12141934930,
+      "node_id": "LA_kwDOUVuBiM8AAAAC07c5Ug",
+      "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/labels/tests",
+      "name": "tests",
+      "color": "bfd4f2",
+      "default": false,
+      "description": "Test coverage",
+      "archived_at": null,
+      "archived_by": null
+    },
+    {
+      "id": 12141935050,
+      "node_id": "LA_kwDOUVuBiM8AAAAC07c5yg",
+      "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/labels/tier-1",
+      "name": "tier-1",
+      "color": "0e8a16",
+      "default": false,
+      "description": "Starter difficulty",
+      "archived_at": null,
+      "archived_by": null
+    }
+  ],
+  "state": "open",
+  "locked": false,
+  "assignees": [
+
+  ],
+  "milestone": null,
+  "comments": 6,
+  "created_at": "2026-09-10T21:40:07Z",
+  "updated_at": "2026-09-29T01:37:28Z",
+  "closed_at": null,
+  "assignee": null,
+  "author_association": "COLLABORATOR",
+  "issue_field_values": [
+
+  ],
+  "type": null,
+  "active_lock_reason": null,
+  "sub_issues_summary": {
+    "total": 0,
+    "completed": 0,
+    "percent_completed": 0
+  },
+  "issue_dependencies_summary": {
+    "blocked_by": 0,
+    "total_blocked_by": 0,
+    "blocking": 0,
+    "total_blocking": 0
+  },
+  "body": "There's no test that exercises the review endpoint when a profile exists but has no associated ingested content. Add a test that verifies the endpoint returns an appropriate error rather than crashing.\n\n**Relevant files:**\n- `tests/unit/test_review_routes.py`\n\n**Estimated effort:** 2–3 hours\n",
+  "closed_by": null,
+  "reactions": {
+    "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/issues/36/reactions",
+    "total_count": 0,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
+  "timeline_url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/issues/36/timeline",
+  "performed_via_github_app": null,
+  "state_reason": null,
+  "pinned_comment": null
+}

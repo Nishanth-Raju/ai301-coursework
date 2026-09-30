@@ -1,0 +1,412 @@
+[
+  {
+    "sha": "2f4e82f52efbcfcc57d65b3fa5348672163ca088",
+    "node_id": "C_kwDOUVuBiNoAKDJmNGU4MmY1MmVmYmNmY2M1N2Q2NWIzZmE1MzQ4NjcyMTYzY2EwODg",
+    "commit": {
+      "author": {
+        "name": "Andrew Burke",
+        "email": "andrew@codepath.org",
+        "date": "2026-09-16T21:42:18Z"
+      },
+      "committer": {
+        "name": "Andrew Burke",
+        "email": "andrew@codepath.org",
+        "date": "2026-09-16T21:50:18Z"
+      },
+      "message": "chore: track five more manifest entries against the tracker\n\nCo-Authored-By: Claude Opus 5 <noreply@anthropic.com>\n(cherry picked from commit 228d54c2a0aea578add0a6e1166013531464740b)",
+      "tree": {
+        "sha": "72cec8e77810ff8ccf8a7a79b4ba991eafae4cff",
+        "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/git/trees/72cec8e77810ff8ccf8a7a79b4ba991eafae4cff"
+      },
+      "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/git/commits/2f4e82f52efbcfcc57d65b3fa5348672163ca088",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/commits/2f4e82f52efbcfcc57d65b3fa5348672163ca088",
+    "html_url": "https://github.com/codepath/pathreview-ai301-fa26-s3/commit/2f4e82f52efbcfcc57d65b3fa5348672163ca088",
+    "comments_url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/commits/2f4e82f52efbcfcc57d65b3fa5348672163ca088/comments",
+    "author": {
+      "login": "Aburke225",
+      "id": 39445646,
+      "node_id": "MDQ6VXNlcjM5NDQ1NjQ2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39445646?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Aburke225",
+      "html_url": "https://github.com/Aburke225",
+      "followers_url": "https://api.github.com/users/Aburke225/followers",
+      "following_url": "https://api.github.com/users/Aburke225/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Aburke225/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Aburke225/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Aburke225/subscriptions",
+      "organizations_url": "https://api.github.com/users/Aburke225/orgs",
+      "repos_url": "https://api.github.com/users/Aburke225/repos",
+      "events_url": "https://api.github.com/users/Aburke225/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Aburke225/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Aburke225",
+      "id": 39445646,
+      "node_id": "MDQ6VXNlcjM5NDQ1NjQ2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39445646?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Aburke225",
+      "html_url": "https://github.com/Aburke225",
+      "followers_url": "https://api.github.com/users/Aburke225/followers",
+      "following_url": "https://api.github.com/users/Aburke225/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Aburke225/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Aburke225/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Aburke225/subscriptions",
+      "organizations_url": "https://api.github.com/users/Aburke225/orgs",
+      "repos_url": "https://api.github.com/users/Aburke225/repos",
+      "events_url": "https://api.github.com/users/Aburke225/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Aburke225/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ddb377d24c9423ebfd4eb61aa62ab520fc7a13aa",
+        "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/commits/ddb377d24c9423ebfd4eb61aa62ab520fc7a13aa",
+        "html_url": "https://github.com/codepath/pathreview-ai301-fa26-s3/commit/ddb377d24c9423ebfd4eb61aa62ab520fc7a13aa"
+      }
+    ]
+  },
+  {
+    "sha": "ddb377d24c9423ebfd4eb61aa62ab520fc7a13aa",
+    "node_id": "C_kwDOUVuBiNoAKGRkYjM3N2QyNGM5NDIzZWJmZDRlYjYxYWE2MmFiNTIwZmM3YTEzYWE",
+    "commit": {
+      "author": {
+        "name": "Andrew Burke",
+        "email": "andrew@codepath.org",
+        "date": "2026-09-16T21:14:57Z"
+      },
+      "committer": {
+        "name": "Andrew Burke",
+        "email": "andrew@codepath.org",
+        "date": "2026-09-16T21:50:18Z"
+      },
+      "message": "chore: tighten the seeding guard, and shape the profile fixture for the analyzer\n\n`seed_issues.py` refused to seed a tracker that already held issues, but read a\nfailed count as an empty tracker, so an unauthenticated or rate-limited run\nseeded anyway. It now counts every issue state and refuses when the count\ncannot be established. `--force` still overrides.\n\n`basic_profile.json` described each repository with the field names\n`GitHubTool` returns rather than the ones `RepoAnalyzer.parse()` reads, so the\nlanguage, star and fork counts came through as defaults. The fixture now uses\nthe field names the analyzer reads.\n\nManifest entries track the tracker, and gain one entry for the README and\n`.env.example` key mismatch.\n\nCo-Authored-By: Claude Opus 5 <noreply@anthropic.com>\n(cherry picked from commit 5ca8ea5fb1c15c13eff8844c65678ce3a8c2de6d)",
+      "tree": {
+        "sha": "d23199c158c14f553ce2aa4a53e85a1bf558ec5a",
+        "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/git/trees/d23199c158c14f553ce2aa4a53e85a1bf558ec5a"
+      },
+      "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/git/commits/ddb377d24c9423ebfd4eb61aa62ab520fc7a13aa",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/commits/ddb377d24c9423ebfd4eb61aa62ab520fc7a13aa",
+    "html_url": "https://github.com/codepath/pathreview-ai301-fa26-s3/commit/ddb377d24c9423ebfd4eb61aa62ab520fc7a13aa",
+    "comments_url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/commits/ddb377d24c9423ebfd4eb61aa62ab520fc7a13aa/comments",
+    "author": {
+      "login": "Aburke225",
+      "id": 39445646,
+      "node_id": "MDQ6VXNlcjM5NDQ1NjQ2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39445646?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Aburke225",
+      "html_url": "https://github.com/Aburke225",
+      "followers_url": "https://api.github.com/users/Aburke225/followers",
+      "following_url": "https://api.github.com/users/Aburke225/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Aburke225/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Aburke225/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Aburke225/subscriptions",
+      "organizations_url": "https://api.github.com/users/Aburke225/orgs",
+      "repos_url": "https://api.github.com/users/Aburke225/repos",
+      "events_url": "https://api.github.com/users/Aburke225/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Aburke225/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Aburke225",
+      "id": 39445646,
+      "node_id": "MDQ6VXNlcjM5NDQ1NjQ2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39445646?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Aburke225",
+      "html_url": "https://github.com/Aburke225",
+      "followers_url": "https://api.github.com/users/Aburke225/followers",
+      "following_url": "https://api.github.com/users/Aburke225/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Aburke225/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Aburke225/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Aburke225/subscriptions",
+      "organizations_url": "https://api.github.com/users/Aburke225/orgs",
+      "repos_url": "https://api.github.com/users/Aburke225/repos",
+      "events_url": "https://api.github.com/users/Aburke225/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Aburke225/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f011a77eeb7e832bf4565b80a57d2787bc086c2b",
+        "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/commits/f011a77eeb7e832bf4565b80a57d2787bc086c2b",
+        "html_url": "https://github.com/codepath/pathreview-ai301-fa26-s3/commit/f011a77eeb7e832bf4565b80a57d2787bc086c2b"
+      }
+    ]
+  },
+  {
+    "sha": "f011a77eeb7e832bf4565b80a57d2787bc086c2b",
+    "node_id": "C_kwDOUVuBiNoAKGYwMTFhNzdlZWI3ZTgzMmJmNDU2NWI4MGE1N2QyNzg3YmMwODZjMmI",
+    "commit": {
+      "author": {
+        "name": "Andrew Burke",
+        "email": "andrew@codepath.org",
+        "date": "2026-09-16T18:35:08Z"
+      },
+      "committer": {
+        "name": "Andrew Burke",
+        "email": "andrew@codepath.org",
+        "date": "2026-09-16T21:50:18Z"
+      },
+      "message": "chore: sync the issues manifest with this repo's tracker\n\nThe manifest now mirrors the open issues on the tracker. It gains entries for\nthe 15 issues that were created directly on the tracker and were never in the\nfile, and it no longer carries entries for issues that are not open here. Each\nentry records the date its premise was checked against the code.\n\nAlso:\n\n- Adds the shared profile and resume fixtures under `tests/fixtures/`, which\n  `docs/CONTRIBUTING.md` and `scripts/run_evals.py` both point at.\n- Stops `seed_issues.py` from seeding a tracker that already holds issues,\n  which would duplicate every entry. Pass `--force` to override.\n- Points the `seed_issues.py` usage example at this repo.\n- Names the fixture, not the parser, in the two README parser xfail reasons,\n  matching the reasons on the other fixture issues.\n\nCo-Authored-By: Claude Opus 5 <noreply@anthropic.com>\n(cherry picked from commit bcf1ba67d6f71dea719fd1cfc71f3686d2f25570)",
+      "tree": {
+        "sha": "a0b853bf6b3c2f2b69762a286618c950d19fb696",
+        "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/git/trees/a0b853bf6b3c2f2b69762a286618c950d19fb696"
+      },
+      "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/git/commits/f011a77eeb7e832bf4565b80a57d2787bc086c2b",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/commits/f011a77eeb7e832bf4565b80a57d2787bc086c2b",
+    "html_url": "https://github.com/codepath/pathreview-ai301-fa26-s3/commit/f011a77eeb7e832bf4565b80a57d2787bc086c2b",
+    "comments_url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/commits/f011a77eeb7e832bf4565b80a57d2787bc086c2b/comments",
+    "author": {
+      "login": "Aburke225",
+      "id": 39445646,
+      "node_id": "MDQ6VXNlcjM5NDQ1NjQ2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39445646?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Aburke225",
+      "html_url": "https://github.com/Aburke225",
+      "followers_url": "https://api.github.com/users/Aburke225/followers",
+      "following_url": "https://api.github.com/users/Aburke225/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Aburke225/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Aburke225/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Aburke225/subscriptions",
+      "organizations_url": "https://api.github.com/users/Aburke225/orgs",
+      "repos_url": "https://api.github.com/users/Aburke225/repos",
+      "events_url": "https://api.github.com/users/Aburke225/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Aburke225/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Aburke225",
+      "id": 39445646,
+      "node_id": "MDQ6VXNlcjM5NDQ1NjQ2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39445646?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Aburke225",
+      "html_url": "https://github.com/Aburke225",
+      "followers_url": "https://api.github.com/users/Aburke225/followers",
+      "following_url": "https://api.github.com/users/Aburke225/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Aburke225/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Aburke225/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Aburke225/subscriptions",
+      "organizations_url": "https://api.github.com/users/Aburke225/orgs",
+      "repos_url": "https://api.github.com/users/Aburke225/repos",
+      "events_url": "https://api.github.com/users/Aburke225/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Aburke225/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "996fabe53f348eca80467c22cdcd23a47d57aed6",
+        "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/commits/996fabe53f348eca80467c22cdcd23a47d57aed6",
+        "html_url": "https://github.com/codepath/pathreview-ai301-fa26-s3/commit/996fabe53f348eca80467c22cdcd23a47d57aed6"
+      }
+    ]
+  },
+  {
+    "sha": "996fabe53f348eca80467c22cdcd23a47d57aed6",
+    "node_id": "C_kwDOUVuBiNoAKDk5NmZhYmU1M2YzNDhlY2E4MDQ2N2MyMmNkY2QyM2E0N2Q1N2FlZDY",
+    "commit": {
+      "author": {
+        "name": "Andrew Burke",
+        "email": "andrew@codepath.org",
+        "date": "2026-08-24T22:02:58Z"
+      },
+      "committer": {
+        "name": "Andrew Burke",
+        "email": "andrew@codepath.org",
+        "date": "2026-08-24T22:02:58Z"
+      },
+      "message": "chore: renumber all issue references to this repo's freshly seeded tracker\n\nThis repo's issues were seeded from the 67 still-open upstream issues (in\norder) plus the five H-01..H-05 manifest entries, minting new numbers #1-#72.\nEvery in-tree reference now points at the live tracker here:\n\n- 53 xfail reasons across 16 test files (e.g. old #158 -> #65, #146 -> #53);\n  the five previously-unissued ones now cite their real numbers #68-#72 and\n  keep the manifest id, e.g. 'issue #68 (manifest H-01)'.\n- The two seeded-defect noqa comments: hybrid.py #24 -> #6,\n  structural_chunker.py #149 -> #56.\n- The pyproject mypy-baseline note: #155 -> #62, #154 -> #61.\n- CONTRIBUTING's xfail-contract examples (#149 -> #56, #155 -> #62), and its\n  illustrative branch/commit examples now cite real open issues here\n  (#54, #26, #44, #11) instead of numbers from the old tracker.\n\nVerified mechanically: every cited number resolves to an OPEN issue whose\ntitle matches the defect it replaced (renumbered targets carry the exact\nupstream title; H targets carry the manifest title), and no stale old number\nremains anywhere in the tree. All local gates green: ruff/black clean, mypy\nclean, unit suite 375 passed / 53 xfailed / 0 failed.",
+      "tree": {
+        "sha": "4efa9239947f9e25dfeeba1795c8f2747ff265fe",
+        "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/git/trees/4efa9239947f9e25dfeeba1795c8f2747ff265fe"
+      },
+      "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/git/commits/996fabe53f348eca80467c22cdcd23a47d57aed6",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/commits/996fabe53f348eca80467c22cdcd23a47d57aed6",
+    "html_url": "https://github.com/codepath/pathreview-ai301-fa26-s3/commit/996fabe53f348eca80467c22cdcd23a47d57aed6",
+    "comments_url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/commits/996fabe53f348eca80467c22cdcd23a47d57aed6/comments",
+    "author": {
+      "login": "Aburke225",
+      "id": 39445646,
+      "node_id": "MDQ6VXNlcjM5NDQ1NjQ2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39445646?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Aburke225",
+      "html_url": "https://github.com/Aburke225",
+      "followers_url": "https://api.github.com/users/Aburke225/followers",
+      "following_url": "https://api.github.com/users/Aburke225/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Aburke225/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Aburke225/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Aburke225/subscriptions",
+      "organizations_url": "https://api.github.com/users/Aburke225/orgs",
+      "repos_url": "https://api.github.com/users/Aburke225/repos",
+      "events_url": "https://api.github.com/users/Aburke225/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Aburke225/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Aburke225",
+      "id": 39445646,
+      "node_id": "MDQ6VXNlcjM5NDQ1NjQ2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39445646?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Aburke225",
+      "html_url": "https://github.com/Aburke225",
+      "followers_url": "https://api.github.com/users/Aburke225/followers",
+      "following_url": "https://api.github.com/users/Aburke225/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Aburke225/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Aburke225/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Aburke225/subscriptions",
+      "organizations_url": "https://api.github.com/users/Aburke225/orgs",
+      "repos_url": "https://api.github.com/users/Aburke225/repos",
+      "events_url": "https://api.github.com/users/Aburke225/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Aburke225/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "119c70c82a0600cb2db7e6786c048bccb3781e87",
+        "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/commits/119c70c82a0600cb2db7e6786c048bccb3781e87",
+        "html_url": "https://github.com/codepath/pathreview-ai301-fa26-s3/commit/119c70c82a0600cb2db7e6786c048bccb3781e87"
+      }
+    ]
+  },
+  {
+    "sha": "119c70c82a0600cb2db7e6786c048bccb3781e87",
+    "node_id": "C_kwDOUVuBiNoAKDExOWM3MGM4MmEwNjAwY2IyZGI3ZTY3ODZjMDQ4YmNjYjM3ODFlODc",
+    "commit": {
+      "author": {
+        "name": "Andrew Burke",
+        "email": "andrew@codepath.org",
+        "date": "2026-08-24T21:42:33Z"
+      },
+      "committer": {
+        "name": "Andrew Burke",
+        "email": "andrew@codepath.org",
+        "date": "2026-08-24T21:42:33Z"
+      },
+      "message": "docs: point clone/upstream URLs at codepath/pathreview\n\nThis repo (codepath/pathreview) is now the canonical student-facing home;\nascherj/pathreview keeps the current cohort's in-flight PRs.",
+      "tree": {
+        "sha": "3ef465a71d756dbaafbfad0bb8112de94547385b",
+        "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/git/trees/3ef465a71d756dbaafbfad0bb8112de94547385b"
+      },
+      "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/git/commits/119c70c82a0600cb2db7e6786c048bccb3781e87",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/commits/119c70c82a0600cb2db7e6786c048bccb3781e87",
+    "html_url": "https://github.com/codepath/pathreview-ai301-fa26-s3/commit/119c70c82a0600cb2db7e6786c048bccb3781e87",
+    "comments_url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/commits/119c70c82a0600cb2db7e6786c048bccb3781e87/comments",
+    "author": {
+      "login": "Aburke225",
+      "id": 39445646,
+      "node_id": "MDQ6VXNlcjM5NDQ1NjQ2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39445646?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Aburke225",
+      "html_url": "https://github.com/Aburke225",
+      "followers_url": "https://api.github.com/users/Aburke225/followers",
+      "following_url": "https://api.github.com/users/Aburke225/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Aburke225/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Aburke225/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Aburke225/subscriptions",
+      "organizations_url": "https://api.github.com/users/Aburke225/orgs",
+      "repos_url": "https://api.github.com/users/Aburke225/repos",
+      "events_url": "https://api.github.com/users/Aburke225/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Aburke225/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Aburke225",
+      "id": 39445646,
+      "node_id": "MDQ6VXNlcjM5NDQ1NjQ2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39445646?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Aburke225",
+      "html_url": "https://github.com/Aburke225",
+      "followers_url": "https://api.github.com/users/Aburke225/followers",
+      "following_url": "https://api.github.com/users/Aburke225/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Aburke225/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Aburke225/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Aburke225/subscriptions",
+      "organizations_url": "https://api.github.com/users/Aburke225/orgs",
+      "repos_url": "https://api.github.com/users/Aburke225/repos",
+      "events_url": "https://api.github.com/users/Aburke225/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Aburke225/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c76832424c00e97a9ed22fac20f0d2e3a648fcf9",
+        "url": "https://api.github.com/repos/codepath/pathreview-ai301-fa26-s3/commits/c76832424c00e97a9ed22fac20f0d2e3a648fcf9",
+        "html_url": "https://github.com/codepath/pathreview-ai301-fa26-s3/commit/c76832424c00e97a9ed22fac20f0d2e3a648fcf9"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1 @@
+Hi, I'd like to investigate this one. My first step is to reproduce the `assert 51 > 100` failure on Windows, then check what word count the test's second assertion (`word_count_category == "comprehensive"`) actually needs. Looking at the scorer, extending the fixture just past 100 words may not be enough. I'll post what I find here before changing anything.
